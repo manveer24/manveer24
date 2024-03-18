@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 I’m currently working on a MERN Projects
 - 🌱 I’m Interested to work on Web 3.0 
 - 💬 Ask me about Technology & Designing
-- 📫 How to reach me: dipayansarkar265482@gmail.com
+- 📫 How to reach me: manan0212v@gmail.com
 - ⚡ Fun fact: I am owner of youtub Channel Ranchhodraiji_status
 
 <a href="https://www.github.com/manveer24" target="_blank" rel="noreferrer"><img
